@@ -17,7 +17,7 @@
   "author": "Vasil Boshnakov",
   "license": "ISC",
   "dependencies": {
-    "pug": "2.0.0-beta4",
+    "gulp-jade": "1.1.0",
     "reveal": "0.0.4"
   },
   "devDependencies": {
@@ -25,7 +25,6 @@
     "gulp-browserify": "0.5.1",
     "gulp-clean": "0.3.2",
     "gulp-open": "2.0.0",
-    "gulp-pug": "3.0.3",
     "gulp-rename": "1.2.2",
     "gulp-uglify": "1.5.4",
     "run-sequence": "1.2.2"
